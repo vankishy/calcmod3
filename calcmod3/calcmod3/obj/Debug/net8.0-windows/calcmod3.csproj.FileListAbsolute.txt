@@ -1,0 +1,16 @@
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\bin\Debug\net8.0-windows\calcmod3.exe
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\bin\Debug\net8.0-windows\calcmod3.deps.json
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\bin\Debug\net8.0-windows\calcmod3.runtimeconfig.json
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\bin\Debug\net8.0-windows\calcmod3.dll
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\bin\Debug\net8.0-windows\calcmod3.pdb
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.Form1.resources
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.dll
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\refint\calcmod3.dll
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.pdb
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\calcmod3.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\source\repos\1302220001_OAM\calcmod3\calcmod3\obj\Debug\net8.0-windows\ref\calcmod3.dll
